@@ -1,0 +1,7 @@
+mysql_connector_repackaged==0.3.1
+numpy==1.26.1
+pandas==2.1.2
+Pillow==10.1.0
+Pillow==10.1.0
+plotly==5.18.0
+streamlit==1.28.1
