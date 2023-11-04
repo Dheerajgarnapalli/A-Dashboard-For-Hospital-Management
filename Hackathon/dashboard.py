@@ -4,7 +4,7 @@ from numpy import random
 import numpy as np
 import pandas as pd
 from PIL import Image
-df = pd.read_csv("C:/Users/DHEERAJ/OneDrive/Desktop/sih/Hackathon/finalfinal.csv")
+df = pd.read_csv("Hackathon/finalfinal.csv")
 
 st.set_page_config(
     page_title='Real time dashboard',
