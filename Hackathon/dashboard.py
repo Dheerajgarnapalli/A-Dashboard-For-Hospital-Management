@@ -115,7 +115,7 @@ visualization_option = st.selectbox('Select Visualization', ('Disease Distributi
                  'Blood Distribution By Gender', 'Location Count',
                    'Addiction Count',
                    'Addiction vs. Gender',
-                   'Status Info Distribution Pie','Status Info Counts',
+                   'Status Info Counts',
                  'Type of Admission Counts'))
 
 if visualization_option == 'Disease Distribution by Gender':
