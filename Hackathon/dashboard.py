@@ -153,13 +153,7 @@ elif visualization_option == 'Addiction vs. Gender':
     # Creating a cross-tab for addiction vs gender and visualizing it
     addiction_gender = pd.crosstab(df['Addiction'], df['Gender'])
     st.bar_chart(addiction_gender)
-elif visualization_option == 'Status Info Distribution Pie':
-    st.markdown("<div style='height: 30px;'></div>", unsafe_allow_html=True)
-    st.subheader('Status Info Distribution')
-    status_info_counts = df['Status_Info'].value_counts()
-    fig, ax = plt.subplots()
-    ax.pie(status_info_counts, labels=status_info_counts.index, autopct='%1.1f%%')
-    st.pyplot(fig)
+
 elif visualization_option == 'Status Info Counts':
     st.markdown("<div style='height: 30px;'></div>", unsafe_allow_html=True)
     st.subheader('Status Info Counts')
