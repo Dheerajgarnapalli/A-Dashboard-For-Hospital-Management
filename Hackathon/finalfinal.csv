@@ -1,0 +1,501 @@
+D_name,Gender,Age,Blood_Type,Location,Addiction,Status_Info,DOS_Days,Type_Of_Admission,Positive_Review,Wait_Time_Mins
+Diabetes,Male,38,A+,Urban,Drug-addict,Discharged,6,Emergency,No,47
+Covid,Female,52,B-,Rural,None,Died,1,Emergency,Yes,44
+TB,Female,52,AB-,Rural,Smoking,Admitted,1,Emergency,No,38
+Cancer,Male,56,A-,Rural,None,Discharged,2,IP,No,47
+respiratory problems,Female,35,AB+,Urban,Smoking,ICU,1,Emergency,No,27
+Cancer,Male,35,AB-,Urban,Drug-addict,ICU,3,IP,No,10
+Infant_and_Pregnancy cases,Female,55,A+,Rural,Alcoholic,Died,4,Emergency,No,19
+TB,Female,49,O+,Rural,Smoking,ICU,5,Emergency,Yes,34
+TB,Male,20,A-,Urban,Alcoholic,Admitted,7,IP,No,24
+Infant_and_Pregnancy cases,Female,30,A+,Rural,Drug-addict,ICU,6,OP,No,7
+accident_cases,Female,57,AB+,Urban,Smoking,Died,7,OP,No,11
+respiratory problems,Female,29,O+,Urban,Alcoholic,Died,3,OP,Yes,4
+Diabetes,Male,16,O+,Rural,None,Admitted,7,OP,No,19
+Hypertension,Male,35,AB+,Rural,Smoking,Discharged,5,Emergency,No,8
+Infant_and_Pregnancy cases,Male,22,A+,Urban,Smoking,Discharged,3,Emergency,Yes,40
+Hypertension,Male,38,AB-,Urban,None,ICU,3,Emergency,Yes,36
+respiratory problems,Female,8,O+,Urban,Alcoholic,Died,7,IP,No,5
+Diabetes,Male,49,A+,Rural,None,Admitted,3,Emergency,Yes,0
+accident_cases,Female,7,AB-,Rural,Alcoholic,ICU,5,Emergency,No,24
+accident_cases,Male,32,A-,Urban,Drug-addict,Discharged,5,IP,No,1
+respiratory problems,Male,43,O+,Rural,Drug-addict,Discharged,1,Emergency,No,29
+Infant_and_Pregnancy cases,Male,35,A+,Rural,Smoking,Admitted,7,OP,No,33
+Hypertension,Female,13,AB+,Rural,Alcoholic,Discharged,1,IP,Yes,37
+Hypertension,Female,14,AB-,Rural,Smoking,ICU,1,OP,No,34
+respiratory problems,Male,48,A-,Urban,Drug-addict,Discharged,3,Emergency,No,30
+Diabetes,Male,31,A-,Rural,Drug-addict,Admitted,4,IP,Yes,9
+TB,Female,9,O+,Urban,Drug-addict,Died,4,IP,Yes,46
+Cancer,Male,14,O-,Urban,Alcoholic,ICU,2,IP,No,39
+TB,Male,16,A+,Urban,None,Died,3,IP,No,29
+Covid,Male,40,O+,Urban,Smoking,ICU,6,IP,Yes,3
+Infant_and_Pregnancy cases,Male,5,B+,Rural,Smoking,Discharged,5,IP,Yes,47
+TB,Female,51,B+,Rural,None,Discharged,7,IP,No,13
+Diabetes,Female,26,B-,Urban,None,ICU,4,Emergency,No,19
+respiratory problems,Female,43,AB+,Urban,Drug-addict,ICU,7,OP,No,34
+Cancer,Male,30,A-,Urban,Drug-addict,Discharged,7,OP,Yes,27
+TB,Female,33,O+,Rural,None,ICU,4,IP,Yes,21
+Covid,Male,10,AB+,Rural,None,Died,2,IP,No,18
+Cancer,Male,18,A-,Rural,None,ICU,2,OP,Yes,12
+accident_cases,Male,24,AB+,Rural,Drug-addict,ICU,7,Emergency,Yes,30
+Hypertension,Male,40,AB+,Rural,None,Discharged,4,Emergency,Yes,49
+Covid,Female,45,A-,Rural,Drug-addict,Died,4,IP,No,30
+Covid,Male,12,A+,Rural,Drug-addict,ICU,4,Emergency,No,38
+respiratory problems,Female,34,A+,Rural,Drug-addict,ICU,2,OP,Yes,15
+Hypertension,Female,55,O-,Urban,Alcoholic,ICU,6,OP,No,21
+Hypertension,Female,49,O-,Rural,Drug-addict,Admitted,3,Emergency,Yes,19
+accident_cases,Male,39,AB+,Rural,None,Died,7,Emergency,No,20
+Hypertension,Male,23,AB-,Urban,Alcoholic,Discharged,2,OP,No,47
+Hypertension,Female,21,B+,Rural,None,Discharged,1,IP,No,4
+Diabetes,Female,8,O-,Rural,None,ICU,2,IP,Yes,26
+Hypertension,Male,32,A+,Urban,Alcoholic,Died,6,IP,No,23
+Infant_and_Pregnancy cases,Female,41,A+,Rural,None,ICU,2,OP,Yes,2
+respiratory problems,Female,11,A+,Rural,Alcoholic,Discharged,3,OP,Yes,29
+Diabetes,Female,59,A-,Rural,Drug-addict,ICU,3,IP,Yes,49
+Covid,Female,37,A+,Urban,Alcoholic,ICU,5,OP,No,37
+accident_cases,Female,10,B+,Urban,Drug-addict,Discharged,3,Emergency,No,34
+Hypertension,Female,25,A+,Urban,None,ICU,2,OP,No,35
+Covid,Female,25,A+,Rural,Drug-addict,Discharged,4,OP,No,40
+Infant_and_Pregnancy cases,Female,44,A-,Rural,Smoking,ICU,5,OP,Yes,34
+Covid,Male,12,B-,Urban,None,Discharged,7,Emergency,Yes,40
+respiratory problems,Male,7,O+,Urban,Smoking,Died,2,IP,No,43
+Hypertension,Female,29,A-,Rural,Smoking,Died,6,Emergency,No,49
+Covid,Female,31,AB+,Rural,Drug-addict,Discharged,7,IP,No,35
+accident_cases,Female,6,B+,Rural,None,ICU,2,OP,Yes,46
+TB,Male,35,O+,Rural,Smoking,Died,3,Emergency,Yes,22
+Cancer,Female,44,A+,Urban,Drug-addict,Discharged,6,IP,No,35
+Diabetes,Female,32,B+,Urban,Drug-addict,Admitted,3,OP,No,18
+respiratory problems,Female,45,A-,Rural,None,Admitted,3,OP,No,45
+Hypertension,Male,46,A-,Urban,None,Discharged,4,OP,No,47
+respiratory problems,Female,21,A-,Rural,Drug-addict,Died,1,OP,Yes,20
+Infant_and_Pregnancy cases,Male,40,AB-,Rural,Smoking,ICU,4,OP,No,46
+respiratory problems,Female,16,AB-,Urban,Alcoholic,Admitted,5,Emergency,No,37
+Covid,Female,5,A+,Rural,None,ICU,6,OP,Yes,1
+respiratory problems,Male,56,B+,Rural,Drug-addict,Died,5,IP,Yes,47
+Cancer,Male,13,A+,Rural,Drug-addict,Admitted,2,IP,No,43
+Cancer,Male,52,A-,Urban,Alcoholic,Discharged,6,Emergency,Yes,38
+Cancer,Female,30,A-,Rural,Smoking,Discharged,2,OP,Yes,16
+TB,Female,30,O-,Rural,Drug-addict,Admitted,3,OP,Yes,18
+Cancer,Female,53,B+,Rural,None,Died,4,IP,No,11
+Infant_and_Pregnancy cases,Male,38,AB-,Urban,None,Died,6,Emergency,Yes,33
+accident_cases,Female,50,AB-,Rural,Smoking,Admitted,7,IP,Yes,43
+Cancer,Male,39,A-,Urban,Smoking,ICU,3,OP,Yes,46
+Cancer,Female,27,B-,Urban,Smoking,Admitted,5,OP,Yes,19
+cardio arrest,Male,56,O-,Rural,Alcoholic,Discharged,6,Emergency,Yes,32
+TB,Female,16,AB+,Urban,None,Discharged,3,Emergency,No,5
+Diabetes,Female,5,A+,Urban,Smoking,ICU,6,OP,Yes,40
+Covid,Female,9,O-,Rural,Smoking,Admitted,2,OP,Yes,32
+TB,Male,10,A-,Urban,Alcoholic,Died,2,Emergency,Yes,9
+TB,Female,23,O+,Urban,Drug-addict,Discharged,3,Emergency,No,11
+Cancer,Male,17,A+,Urban,Smoking,Admitted,7,IP,Yes,1
+Infant_and_Pregnancy cases,Male,11,O+,Urban,Drug-addict,Admitted,1,OP,No,5
+Infant_and_Pregnancy cases,Male,45,AB+,Urban,Alcoholic,Discharged,6,IP,Yes,21
+Diabetes,Female,28,B-,Rural,None,ICU,7,Emergency,No,1
+TB,Female,7,A-,Urban,None,ICU,3,IP,No,9
+Infant_and_Pregnancy cases,Male,33,A+,Rural,Alcoholic,Died,1,Emergency,No,20
+TB,Female,24,O+,Urban,Smoking,Discharged,3,Emergency,No,47
+Infant_and_Pregnancy cases,Female,8,O-,Urban,Alcoholic,Died,3,Emergency,No,11
+accident_cases,Male,47,A-,Urban,Drug-addict,Admitted,1,OP,No,1
+respiratory problems,Female,47,B+,Rural,Drug-addict,Died,2,OP,Yes,27
+Diabetes,Female,48,O+,Rural,Drug-addict,Admitted,1,IP,No,10
+Cancer,Male,20,AB+,Rural,Drug-addict,Discharged,4,Emergency,No,0
+cardio arrest,Male,34,AB+,Rural,None,Admitted,4,OP,Yes,30
+TB,Female,22,A-,Urban,None,ICU,6,Emergency,No,23
+accident_cases,Male,40,O-,Rural,None,Admitted,3,Emergency,No,29
+Cancer,Male,36,A-,Rural,None,Discharged,4,OP,Yes,24
+Infant_and_Pregnancy cases,Female,5,AB+,Rural,Alcoholic,Died,2,OP,Yes,1
+Diabetes,Male,32,O+,Urban,Drug-addict,Discharged,1,Emergency,No,7
+cardio arrest,Female,39,B-,Rural,Drug-addict,Died,2,OP,Yes,28
+accident_cases,Female,31,O+,Urban,None,Admitted,1,OP,Yes,12
+Hypertension,Female,43,O+,Rural,Smoking,ICU,1,OP,Yes,33
+Cancer,Female,17,AB+,Urban,Drug-addict,Died,3,OP,Yes,14
+cardio arrest,Female,33,AB+,Rural,None,Discharged,3,Emergency,Yes,10
+accident_cases,Male,10,O+,Rural,Alcoholic,ICU,7,Emergency,Yes,17
+Diabetes,Male,31,AB-,Urban,None,ICU,3,OP,Yes,13
+Covid,Male,25,A+,Urban,Drug-addict,Died,2,Emergency,Yes,29
+Covid,Male,9,B+,Urban,Alcoholic,ICU,7,Emergency,No,30
+accident_cases,Female,18,A+,Urban,Smoking,ICU,1,IP,No,17
+Diabetes,Female,36,B-,Urban,Drug-addict,ICU,1,IP,No,10
+TB,Male,48,A-,Rural,Drug-addict,Died,3,Emergency,Yes,24
+Covid,Male,50,O+,Urban,None,Discharged,5,IP,Yes,46
+Hypertension,Female,53,B+,Urban,None,ICU,5,IP,No,49
+Cancer,Male,40,B-,Urban,Drug-addict,Died,6,IP,Yes,36
+Covid,Female,19,AB-,Rural,Smoking,Discharged,5,IP,Yes,24
+respiratory problems,Male,6,B+,Rural,Smoking,ICU,1,IP,Yes,43
+accident_cases,Female,41,AB+,Rural,Drug-addict,Admitted,5,IP,Yes,4
+Hypertension,Female,33,O+,Urban,Smoking,ICU,3,Emergency,Yes,33
+Cancer,Female,14,O+,Rural,None,ICU,5,IP,No,42
+respiratory problems,Female,29,AB+,Urban,Alcoholic,Died,2,Emergency,No,13
+Diabetes,Female,18,B-,Urban,None,Died,4,Emergency,Yes,16
+cardio arrest,Male,31,AB+,Urban,Smoking,Admitted,6,OP,Yes,43
+accident_cases,Male,43,A+,Rural,Drug-addict,ICU,7,OP,Yes,2
+TB,Female,57,O+,Urban,Smoking,Admitted,6,OP,Yes,5
+accident_cases,Female,52,B-,Rural,Smoking,Died,2,OP,Yes,11
+cardio arrest,Male,30,AB+,Urban,Drug-addict,Admitted,7,OP,No,31
+Cancer,Male,38,A+,Rural,None,Discharged,6,OP,Yes,49
+TB,Male,55,B+,Urban,Alcoholic,Discharged,5,OP,No,14
+Infant_and_Pregnancy cases,Male,35,O-,Urban,None,Died,6,Emergency,No,15
+cardio arrest,Female,30,B+,Urban,Drug-addict,Admitted,6,Emergency,No,10
+respiratory problems,Female,26,B+,Urban,Drug-addict,Admitted,2,OP,Yes,20
+accident_cases,Female,54,AB-,Rural,Drug-addict,Discharged,5,OP,No,9
+accident_cases,Male,57,B+,Rural,None,Admitted,6,Emergency,Yes,49
+Hypertension,Female,43,B+,Rural,None,Discharged,6,IP,No,20
+Diabetes,Male,7,AB-,Urban,Drug-addict,ICU,6,OP,No,48
+cardio arrest,Male,43,O+,Urban,Smoking,ICU,7,OP,Yes,2
+Hypertension,Male,49,O+,Urban,Smoking,ICU,1,Emergency,No,17
+Covid,Male,44,AB+,Rural,Smoking,ICU,5,IP,No,3
+cardio arrest,Female,7,B+,Rural,Smoking,Died,2,OP,No,38
+TB,Male,31,B-,Rural,None,Admitted,6,Emergency,No,34
+Diabetes,Male,6,B-,Rural,None,Discharged,4,OP,No,0
+Cancer,Male,22,B+,Rural,Smoking,Discharged,1,Emergency,No,3
+Diabetes,Female,9,AB-,Urban,Alcoholic,Died,6,Emergency,Yes,8
+accident_cases,Male,32,O-,Urban,Alcoholic,Admitted,2,Emergency,Yes,34
+respiratory problems,Male,13,AB-,Rural,Alcoholic,Died,1,Emergency,No,23
+respiratory problems,Male,17,B-,Urban,Drug-addict,Admitted,3,OP,Yes,16
+respiratory problems,Male,18,O-,Rural,Alcoholic,Died,5,OP,Yes,29
+Diabetes,Male,40,B+,Urban,Alcoholic,Admitted,1,Emergency,Yes,33
+accident_cases,Male,53,AB-,Urban,None,Admitted,1,IP,Yes,21
+Infant_and_Pregnancy cases,Female,20,B-,Urban,Drug-addict,Admitted,4,IP,Yes,4
+Infant_and_Pregnancy cases,Male,33,O-,Urban,Smoking,ICU,2,OP,No,19
+Diabetes,Female,46,A+,Rural,None,Discharged,7,IP,No,0
+cardio arrest,Female,50,A-,Rural,Smoking,Discharged,3,Emergency,No,16
+accident_cases,Female,52,AB-,Rural,Smoking,Admitted,3,IP,No,17
+Covid,Male,10,B+,Rural,None,ICU,6,Emergency,No,10
+Hypertension,Male,8,A-,Urban,Drug-addict,Died,5,OP,No,36
+respiratory problems,Female,30,AB+,Urban,Alcoholic,Discharged,3,OP,Yes,49
+Covid,Female,7,AB+,Rural,None,Admitted,4,OP,Yes,30
+Infant_and_Pregnancy cases,Female,47,A+,Urban,Smoking,Discharged,5,Emergency,Yes,28
+Cancer,Female,6,AB-,Rural,Drug-addict,ICU,4,IP,No,0
+cardio arrest,Male,19,A-,Urban,Drug-addict,Discharged,1,IP,Yes,48
+Covid,Male,21,O+,Rural,None,ICU,5,Emergency,Yes,20
+respiratory problems,Male,35,AB+,Rural,Smoking,ICU,6,Emergency,Yes,23
+Covid,Male,49,B+,Urban,Smoking,ICU,4,OP,No,21
+Hypertension,Female,45,A+,Rural,Alcoholic,Admitted,5,OP,Yes,42
+Covid,Male,36,AB+,Urban,None,Admitted,2,OP,Yes,9
+cardio arrest,Female,6,B-,Urban,Alcoholic,Admitted,2,OP,No,12
+cardio arrest,Male,26,O+,Rural,Smoking,Died,1,Emergency,Yes,46
+TB,Female,35,AB-,Urban,Alcoholic,Admitted,4,Emergency,Yes,44
+respiratory problems,Male,7,AB-,Urban,Smoking,Admitted,2,OP,No,43
+accident_cases,Female,29,A-,Rural,Smoking,Died,1,IP,Yes,49
+Cancer,Male,56,A+,Rural,Alcoholic,Discharged,2,IP,Yes,24
+Hypertension,Male,35,B+,Rural,Smoking,Discharged,1,Emergency,Yes,40
+accident_cases,Male,27,AB-,Urban,Alcoholic,Admitted,1,OP,No,0
+accident_cases,Male,31,O-,Urban,None,ICU,4,Emergency,Yes,4
+Covid,Male,47,B-,Rural,Smoking,Discharged,1,Emergency,No,31
+Cancer,Female,9,O+,Rural,Drug-addict,Admitted,4,Emergency,Yes,18
+accident_cases,Male,37,B-,Urban,None,Admitted,6,Emergency,No,39
+Hypertension,Female,17,O-,Urban,None,Discharged,6,OP,Yes,9
+Cancer,Male,6,AB-,Urban,Drug-addict,Discharged,3,OP,No,48
+respiratory problems,Male,56,A-,Urban,Smoking,Admitted,3,OP,Yes,37
+Covid,Male,39,A-,Rural,Drug-addict,Discharged,3,Emergency,No,0
+Cancer,Female,51,O-,Rural,Alcoholic,Discharged,5,OP,Yes,24
+TB,Male,10,B-,Urban,Drug-addict,ICU,7,OP,Yes,29
+Hypertension,Female,26,B+,Rural,Smoking,Admitted,1,IP,No,47
+Diabetes,Male,40,A-,Rural,Smoking,Admitted,5,Emergency,No,12
+Infant_and_Pregnancy cases,Female,7,A-,Urban,Smoking,Admitted,5,IP,No,22
+accident_cases,Female,52,B+,Rural,Drug-addict,Died,6,IP,Yes,39
+Covid,Male,46,O-,Rural,Alcoholic,Died,7,OP,No,47
+Diabetes,Male,58,AB-,Urban,Drug-addict,Admitted,7,IP,No,29
+Diabetes,Male,49,O-,Urban,Drug-addict,Discharged,4,Emergency,Yes,30
+cardio arrest,Male,56,B-,Rural,Alcoholic,Discharged,4,Emergency,No,22
+Infant_and_Pregnancy cases,Female,46,AB+,Rural,Drug-addict,Died,5,Emergency,Yes,26
+Infant_and_Pregnancy cases,Female,14,A+,Rural,None,ICU,4,IP,Yes,3
+Diabetes,Male,20,B+,Rural,None,ICU,1,OP,Yes,36
+accident_cases,Female,7,A-,Urban,Smoking,ICU,1,Emergency,No,44
+Infant_and_Pregnancy cases,Female,17,B+,Rural,Alcoholic,Died,5,OP,Yes,9
+Covid,Male,44,AB+,Urban,Drug-addict,Discharged,3,Emergency,No,41
+respiratory problems,Female,13,A-,Urban,Alcoholic,Died,1,OP,No,7
+Cancer,Male,10,O+,Urban,Alcoholic,Died,1,Emergency,No,0
+Infant_and_Pregnancy cases,Female,21,AB-,Urban,None,Died,7,IP,Yes,17
+respiratory problems,Female,14,A+,Urban,Drug-addict,Died,2,Emergency,No,39
+accident_cases,Male,13,AB+,Urban,Alcoholic,Discharged,3,OP,Yes,46
+Infant_and_Pregnancy cases,Male,34,O+,Urban,Drug-addict,ICU,2,OP,Yes,28
+accident_cases,Male,37,O-,Urban,Alcoholic,ICU,2,Emergency,No,5
+accident_cases,Female,38,A+,Urban,Drug-addict,ICU,7,IP,No,14
+cardio arrest,Male,40,A-,Rural,None,ICU,7,IP,Yes,15
+cardio arrest,Male,43,O+,Urban,Smoking,Discharged,7,IP,Yes,35
+Infant_and_Pregnancy cases,Female,55,B+,Urban,Alcoholic,Died,4,IP,No,40
+Hypertension,Female,15,B-,Rural,Alcoholic,ICU,3,OP,Yes,4
+Hypertension,Female,50,AB+,Urban,None,Died,7,IP,Yes,13
+TB,Male,58,B+,Rural,Smoking,Admitted,7,Emergency,No,20
+Diabetes,Female,46,O+,Urban,Drug-addict,Admitted,3,OP,Yes,8
+Hypertension,Female,39,A-,Urban,Drug-addict,ICU,2,Emergency,No,30
+Covid,Female,31,O-,Urban,None,Admitted,5,OP,No,25
+accident_cases,Male,5,A+,Urban,Alcoholic,Discharged,1,OP,No,38
+respiratory problems,Male,47,O+,Urban,Drug-addict,ICU,3,IP,Yes,30
+cardio arrest,Male,24,O-,Urban,Smoking,Admitted,1,Emergency,No,46
+respiratory problems,Female,17,O-,Rural,None,Discharged,3,OP,Yes,15
+Hypertension,Female,55,B+,Urban,Drug-addict,ICU,3,Emergency,No,28
+Infant_and_Pregnancy cases,Male,52,AB+,Rural,Alcoholic,ICU,7,IP,No,36
+Diabetes,Male,24,A+,Rural,Alcoholic,ICU,3,OP,No,4
+Infant_and_Pregnancy cases,Female,9,A-,Urban,Drug-addict,Discharged,7,IP,Yes,18
+TB,Male,57,A+,Rural,Alcoholic,Died,2,Emergency,Yes,41
+respiratory problems,Female,37,AB+,Urban,None,Admitted,7,IP,No,2
+Hypertension,Male,12,O-,Urban,None,Admitted,3,OP,No,30
+accident_cases,Male,27,O+,Rural,None,Admitted,4,Emergency,Yes,45
+Diabetes,Male,55,B+,Rural,Drug-addict,Admitted,4,OP,Yes,36
+Infant_and_Pregnancy cases,Male,26,O-,Rural,Drug-addict,Died,5,Emergency,No,42
+Infant_and_Pregnancy cases,Female,40,AB-,Urban,Smoking,Admitted,2,OP,No,29
+Covid,Male,44,B-,Rural,Alcoholic,Died,4,Emergency,No,34
+Hypertension,Female,8,O+,Rural,Smoking,ICU,6,Emergency,No,47
+TB,Male,18,B-,Urban,Drug-addict,Discharged,2,IP,Yes,15
+Cancer,Male,30,O-,Urban,Drug-addict,Died,4,OP,No,7
+accident_cases,Male,29,AB-,Rural,Smoking,Died,4,IP,No,12
+Diabetes,Male,56,A-,Rural,Drug-addict,Discharged,5,Emergency,No,2
+Diabetes,Male,22,O+,Rural,Smoking,Died,7,Emergency,No,40
+Infant_and_Pregnancy cases,Female,59,A+,Rural,Smoking,Admitted,7,IP,Yes,35
+Hypertension,Male,37,AB+,Urban,None,Discharged,4,IP,No,33
+Infant_and_Pregnancy cases,Female,43,A+,Rural,Drug-addict,Died,2,IP,No,30
+Covid,Female,50,B-,Rural,Drug-addict,Discharged,3,Emergency,No,6
+respiratory problems,Male,48,O+,Rural,None,Discharged,2,Emergency,No,9
+Infant_and_Pregnancy cases,Male,45,B+,Urban,Smoking,Discharged,7,Emergency,Yes,30
+respiratory problems,Female,37,A-,Urban,None,Admitted,3,IP,No,6
+Covid,Female,48,B+,Urban,Drug-addict,Died,4,IP,Yes,35
+Infant_and_Pregnancy cases,Female,58,B-,Rural,Smoking,Admitted,5,Emergency,Yes,10
+TB,Male,15,B-,Rural,Alcoholic,Died,2,IP,Yes,29
+Covid,Female,41,AB-,Rural,Smoking,ICU,4,IP,No,10
+cardio arrest,Male,13,O-,Rural,Alcoholic,Admitted,2,OP,No,33
+accident_cases,Female,42,B+,Urban,Drug-addict,Admitted,6,IP,No,18
+respiratory problems,Female,36,O+,Urban,Alcoholic,Admitted,3,Emergency,No,13
+cardio arrest,Male,18,AB-,Urban,Alcoholic,Discharged,2,IP,No,14
+cardio arrest,Male,29,O+,Urban,Drug-addict,Admitted,6,IP,Yes,21
+Hypertension,Male,42,A-,Rural,None,Admitted,7,Emergency,Yes,46
+Cancer,Female,45,AB-,Urban,None,ICU,2,OP,Yes,25
+Diabetes,Male,23,AB-,Urban,Smoking,ICU,4,IP,Yes,0
+TB,Female,31,B-,Rural,None,Died,4,Emergency,Yes,30
+cardio arrest,Male,43,B+,Rural,Alcoholic,Discharged,2,IP,No,25
+accident_cases,Male,45,AB+,Rural,Alcoholic,Died,3,IP,No,23
+accident_cases,Female,5,AB+,Rural,Smoking,Discharged,6,Emergency,Yes,23
+accident_cases,Male,27,A+,Urban,Smoking,Died,3,OP,No,28
+cardio arrest,Female,19,A-,Urban,None,ICU,2,OP,Yes,30
+TB,Female,25,AB+,Rural,None,Died,1,Emergency,No,29
+Diabetes,Female,14,O+,Rural,Drug-addict,Discharged,3,OP,Yes,37
+Covid,Female,31,O+,Rural,None,Discharged,4,IP,Yes,11
+Covid,Female,47,AB+,Urban,None,ICU,4,OP,No,34
+Hypertension,Female,55,O-,Rural,None,Admitted,5,OP,No,23
+Hypertension,Female,21,B-,Urban,Drug-addict,Discharged,6,OP,Yes,6
+accident_cases,Female,40,A-,Urban,Smoking,Discharged,6,IP,No,14
+Covid,Male,5,A+,Urban,Alcoholic,Died,3,OP,No,1
+Hypertension,Female,29,A-,Urban,Smoking,Admitted,5,OP,No,48
+Covid,Male,51,B-,Rural,Smoking,ICU,7,IP,Yes,48
+Cancer,Female,20,B-,Rural,Smoking,Discharged,5,OP,Yes,17
+respiratory problems,Male,20,AB+,Rural,Smoking,ICU,5,IP,Yes,29
+Hypertension,Female,38,AB+,Urban,Smoking,Admitted,5,OP,No,34
+TB,Male,5,B-,Rural,Drug-addict,Discharged,3,OP,No,12
+Cancer,Female,18,AB-,Urban,Alcoholic,ICU,2,Emergency,Yes,11
+Infant_and_Pregnancy cases,Male,54,B-,Urban,Alcoholic,ICU,5,OP,No,31
+Cancer,Female,34,O-,Urban,Alcoholic,Admitted,5,IP,Yes,3
+Infant_and_Pregnancy cases,Female,29,A-,Urban,Smoking,ICU,4,Emergency,Yes,21
+Covid,Male,32,AB+,Rural,Smoking,Died,4,IP,Yes,23
+Infant_and_Pregnancy cases,Female,30,AB-,Urban,None,ICU,2,IP,Yes,4
+cardio arrest,Male,34,B+,Rural,None,Discharged,7,Emergency,No,32
+Diabetes,Male,24,A+,Urban,None,Admitted,4,OP,No,35
+Cancer,Male,54,O-,Rural,None,Admitted,1,OP,Yes,35
+respiratory problems,Male,43,A+,Urban,Smoking,Died,5,OP,Yes,19
+Covid,Female,34,AB-,Rural,Smoking,Admitted,1,IP,Yes,24
+respiratory problems,Male,35,A-,Rural,Smoking,Died,3,IP,No,14
+accident_cases,Female,10,O+,Rural,Drug-addict,Died,3,IP,Yes,42
+Covid,Male,7,AB-,Urban,Alcoholic,ICU,5,Emergency,No,36
+Covid,Male,38,A-,Urban,Smoking,Admitted,2,IP,No,44
+Cancer,Male,44,AB-,Rural,None,Admitted,7,IP,No,14
+accident_cases,Female,24,B-,Urban,Smoking,Discharged,7,IP,Yes,20
+accident_cases,Female,20,A+,Urban,Drug-addict,Discharged,4,Emergency,No,21
+Covid,Female,58,AB+,Rural,Drug-addict,ICU,2,Emergency,Yes,10
+Hypertension,Female,54,O+,Rural,Drug-addict,Discharged,2,OP,Yes,27
+accident_cases,Male,24,B+,Urban,None,Admitted,7,Emergency,No,5
+Diabetes,Male,27,A-,Urban,Smoking,Discharged,6,Emergency,No,42
+Infant_and_Pregnancy cases,Female,10,B+,Urban,Smoking,Discharged,5,Emergency,No,21
+accident_cases,Male,53,B-,Urban,Smoking,Discharged,1,OP,No,38
+Diabetes,Male,30,AB+,Urban,Smoking,Admitted,3,IP,Yes,39
+Hypertension,Female,23,A+,Rural,Smoking,Died,1,OP,Yes,43
+respiratory problems,Male,52,AB-,Rural,Alcoholic,Died,2,OP,Yes,4
+respiratory problems,Female,51,A-,Urban,None,Admitted,7,Emergency,No,35
+Covid,Female,41,A+,Rural,Alcoholic,Discharged,3,OP,Yes,48
+TB,Male,31,O-,Urban,Drug-addict,Admitted,7,OP,Yes,41
+Infant_and_Pregnancy cases,Male,6,AB-,Urban,None,Died,5,Emergency,Yes,20
+Diabetes,Male,22,A+,Rural,Smoking,Discharged,3,OP,Yes,9
+accident_cases,Male,18,B+,Urban,None,Discharged,7,Emergency,Yes,25
+Hypertension,Male,53,AB+,Rural,Drug-addict,ICU,3,IP,Yes,46
+cardio arrest,Male,18,O-,Urban,Drug-addict,Discharged,5,IP,Yes,14
+accident_cases,Female,57,B+,Rural,Smoking,Admitted,1,Emergency,Yes,33
+Cancer,Male,28,O-,Urban,Smoking,Discharged,2,Emergency,No,43
+Diabetes,Female,37,A-,Urban,Drug-addict,Discharged,6,IP,No,39
+Hypertension,Female,32,AB+,Rural,None,Died,6,OP,No,35
+Infant_and_Pregnancy cases,Male,58,B-,Urban,Smoking,Admitted,4,Emergency,Yes,27
+Hypertension,Male,6,AB+,Urban,None,Died,5,IP,No,33
+cardio arrest,Male,27,O-,Urban,Drug-addict,Admitted,6,IP,Yes,6
+Diabetes,Female,15,AB-,Rural,Drug-addict,ICU,3,OP,Yes,9
+Diabetes,Male,59,A+,Urban,Alcoholic,ICU,3,OP,No,42
+Hypertension,Male,29,B-,Rural,None,Discharged,1,Emergency,Yes,36
+Covid,Male,26,A+,Rural,None,Discharged,7,Emergency,No,40
+Diabetes,Female,41,O+,Urban,Alcoholic,Died,7,OP,Yes,27
+Covid,Male,37,AB-,Rural,None,Died,4,Emergency,Yes,16
+Diabetes,Male,15,O-,Urban,Drug-addict,Admitted,4,Emergency,Yes,3
+TB,Female,21,A+,Rural,Smoking,Admitted,2,OP,Yes,19
+TB,Male,36,O-,Rural,None,Died,5,OP,Yes,49
+Diabetes,Male,39,O-,Urban,Smoking,Admitted,2,Emergency,Yes,42
+respiratory problems,Female,22,A+,Urban,Drug-addict,Discharged,1,IP,No,16
+respiratory problems,Female,36,AB+,Rural,Alcoholic,Died,4,IP,No,22
+TB,Male,41,O+,Urban,Smoking,Discharged,7,Emergency,Yes,44
+Infant_and_Pregnancy cases,Male,44,AB-,Urban,Drug-addict,Admitted,4,Emergency,No,49
+Infant_and_Pregnancy cases,Female,34,O-,Rural,Smoking,Discharged,2,IP,Yes,3
+Cancer,Male,29,O+,Urban,Drug-addict,Died,1,Emergency,No,31
+Covid,Female,47,B+,Rural,None,Admitted,4,IP,Yes,47
+accident_cases,Male,8,O-,Rural,None,Discharged,7,OP,No,43
+respiratory problems,Female,55,B+,Urban,Smoking,Admitted,5,OP,Yes,42
+Hypertension,Male,30,B+,Urban,Smoking,ICU,2,Emergency,Yes,2
+Diabetes,Male,6,AB-,Urban,Drug-addict,Died,2,IP,Yes,4
+Cancer,Female,22,AB-,Rural,Drug-addict,Died,2,OP,No,13
+accident_cases,Male,38,AB+,Urban,None,Died,3,Emergency,No,15
+accident_cases,Male,19,O-,Rural,None,Died,7,Emergency,No,45
+accident_cases,Male,35,B+,Rural,Drug-addict,Discharged,7,Emergency,Yes,11
+Infant_and_Pregnancy cases,Male,42,B+,Rural,Smoking,Died,4,OP,No,37
+Diabetes,Female,11,A-,Rural,Smoking,Admitted,4,OP,Yes,15
+Diabetes,Female,18,A+,Rural,None,Discharged,2,Emergency,No,41
+cardio arrest,Female,20,A+,Urban,Smoking,Died,2,Emergency,No,10
+respiratory problems,Male,47,O+,Rural,Smoking,Discharged,6,Emergency,No,0
+accident_cases,Male,59,AB+,Urban,Smoking,Died,2,OP,Yes,39
+TB,Female,35,O+,Urban,None,Admitted,5,Emergency,Yes,29
+respiratory problems,Female,14,A-,Urban,Alcoholic,Admitted,4,IP,No,11
+cardio arrest,Female,35,O+,Urban,Smoking,ICU,5,IP,No,19
+Cancer,Male,19,B+,Rural,Drug-addict,ICU,5,OP,Yes,36
+respiratory problems,Male,11,AB+,Rural,Alcoholic,Discharged,4,OP,No,6
+Covid,Male,19,O+,Rural,Smoking,Admitted,5,OP,Yes,17
+cardio arrest,Female,11,A+,Urban,None,Died,6,OP,Yes,13
+TB,Female,17,O-,Rural,Alcoholic,Died,4,IP,No,38
+Infant_and_Pregnancy cases,Male,8,B-,Urban,Alcoholic,Admitted,1,Emergency,Yes,17
+accident_cases,Male,6,O+,Urban,None,ICU,6,OP,Yes,19
+respiratory problems,Female,53,A-,Urban,Alcoholic,Died,4,IP,No,48
+accident_cases,Male,52,AB-,Rural,Smoking,Died,4,Emergency,Yes,29
+Hypertension,Female,55,O-,Urban,Alcoholic,Died,2,OP,No,41
+accident_cases,Female,15,B-,Rural,Drug-addict,Died,6,OP,Yes,20
+Covid,Male,30,A+,Urban,Drug-addict,ICU,2,Emergency,Yes,32
+Hypertension,Female,11,O+,Rural,None,Died,7,IP,No,0
+cardio arrest,Male,50,AB-,Rural,Smoking,Admitted,1,OP,Yes,5
+Diabetes,Female,30,A+,Urban,Alcoholic,Discharged,5,OP,No,14
+Diabetes,Female,55,A+,Rural,None,ICU,5,Emergency,Yes,21
+cardio arrest,Male,50,A+,Urban,Drug-addict,Died,4,OP,No,38
+Cancer,Female,22,AB-,Rural,Alcoholic,Died,2,Emergency,No,6
+TB,Male,22,AB-,Urban,Drug-addict,Discharged,3,OP,Yes,0
+accident_cases,Male,40,O-,Urban,Drug-addict,Discharged,1,OP,No,36
+respiratory problems,Female,31,A-,Rural,Smoking,ICU,7,OP,No,37
+Cancer,Female,24,O-,Urban,Drug-addict,ICU,5,Emergency,No,16
+Infant_and_Pregnancy cases,Male,25,B+,Urban,Smoking,Discharged,7,IP,Yes,45
+Cancer,Male,46,O-,Urban,Alcoholic,ICU,1,Emergency,Yes,42
+respiratory problems,Male,56,O+,Urban,Alcoholic,Died,4,Emergency,Yes,35
+accident_cases,Female,29,A-,Rural,Smoking,ICU,7,Emergency,Yes,24
+respiratory problems,Female,21,O+,Rural,Drug-addict,Admitted,1,IP,Yes,32
+cardio arrest,Female,41,AB-,Rural,Smoking,Admitted,4,Emergency,Yes,38
+accident_cases,Female,6,A-,Urban,Drug-addict,Died,1,IP,Yes,7
+Covid,Male,34,O+,Urban,Drug-addict,Died,3,OP,Yes,15
+Hypertension,Male,26,O+,Urban,None,Died,2,OP,Yes,35
+accident_cases,Male,44,AB-,Urban,Drug-addict,Admitted,2,IP,No,12
+Diabetes,Female,21,AB-,Urban,Smoking,Discharged,4,Emergency,No,22
+Cancer,Female,15,B-,Rural,Smoking,Died,4,OP,No,33
+respiratory problems,Female,19,AB+,Urban,Smoking,Admitted,4,Emergency,No,25
+Hypertension,Female,31,B-,Rural,None,Died,5,OP,No,35
+cardio arrest,Female,56,B-,Rural,Alcoholic,ICU,5,Emergency,Yes,44
+Cancer,Female,26,AB+,Rural,Alcoholic,Admitted,2,OP,Yes,37
+accident_cases,Male,36,AB+,Rural,None,ICU,5,IP,No,16
+Hypertension,Female,58,O+,Rural,Drug-addict,Died,4,Emergency,No,23
+cardio arrest,Female,27,B+,Rural,Smoking,ICU,7,OP,No,37
+Covid,Female,14,B+,Rural,Drug-addict,ICU,3,Emergency,Yes,43
+accident_cases,Male,57,B+,Urban,Alcoholic,ICU,5,IP,No,3
+cardio arrest,Male,59,AB-,Rural,Smoking,ICU,6,IP,Yes,18
+Covid,Male,13,AB+,Urban,Smoking,Admitted,3,OP,No,2
+Cancer,Female,51,A+,Rural,Smoking,ICU,7,OP,Yes,35
+Covid,Male,59,B-,Rural,Smoking,Admitted,6,Emergency,No,42
+Hypertension,Female,44,AB-,Urban,Drug-addict,Discharged,2,OP,No,22
+accident_cases,Male,15,AB-,Urban,None,Died,5,OP,No,43
+cardio arrest,Female,32,B+,Urban,None,Discharged,2,IP,No,39
+cardio arrest,Male,32,A-,Urban,Alcoholic,ICU,7,Emergency,No,5
+cardio arrest,Female,48,AB-,Rural,None,Admitted,6,IP,Yes,0
+Cancer,Female,7,O-,Rural,Alcoholic,Admitted,6,IP,No,22
+Cancer,Male,12,O+,Rural,None,Discharged,2,OP,No,35
+Infant_and_Pregnancy cases,Male,33,B-,Rural,Smoking,ICU,4,OP,No,22
+respiratory problems,Female,18,AB+,Rural,Alcoholic,ICU,4,Emergency,No,43
+cardio arrest,Female,32,O+,Rural,Alcoholic,ICU,5,OP,Yes,5
+Hypertension,Male,17,A+,Urban,Drug-addict,ICU,3,Emergency,No,27
+accident_cases,Female,40,AB+,Rural,Drug-addict,ICU,2,Emergency,No,13
+Cancer,Male,34,AB+,Urban,None,ICU,7,OP,No,6
+respiratory problems,Male,37,B+,Rural,Alcoholic,Discharged,7,IP,Yes,39
+Hypertension,Male,29,O-,Urban,Alcoholic,Admitted,3,IP,No,16
+respiratory problems,Male,54,A-,Urban,Drug-addict,Admitted,3,IP,No,33
+TB,Male,26,AB-,Urban,Drug-addict,Discharged,6,Emergency,No,13
+Hypertension,Female,44,AB-,Rural,Drug-addict,ICU,2,OP,Yes,20
+Infant_and_Pregnancy cases,Male,41,B-,Urban,None,Admitted,7,OP,Yes,48
+Cancer,Male,14,B-,Urban,Drug-addict,Died,2,IP,Yes,1
+cardio arrest,Female,57,AB-,Urban,Smoking,Discharged,4,IP,Yes,19
+Infant_and_Pregnancy cases,Male,27,AB+,Rural,Alcoholic,Admitted,7,Emergency,No,10
+respiratory problems,Female,31,B+,Urban,Alcoholic,Admitted,1,OP,Yes,21
+TB,Male,12,AB+,Rural,None,ICU,5,Emergency,Yes,6
+accident_cases,Female,44,AB+,Rural,Drug-addict,ICU,1,OP,No,25
+Covid,Male,12,B+,Urban,Alcoholic,Admitted,5,OP,No,48
+Hypertension,Male,46,O+,Rural,None,Admitted,5,IP,Yes,9
+respiratory problems,Female,35,O-,Rural,None,Died,1,Emergency,Yes,32
+Hypertension,Male,19,O+,Urban,Smoking,Died,3,IP,No,43
+accident_cases,Male,35,AB+,Rural,Alcoholic,Discharged,7,OP,No,9
+Infant_and_Pregnancy cases,Female,56,A+,Urban,Alcoholic,Discharged,5,Emergency,Yes,37
+respiratory problems,Male,51,B-,Rural,Drug-addict,Discharged,3,Emergency,No,22
+TB,Male,44,AB-,Urban,Alcoholic,ICU,4,OP,No,8
+TB,Female,29,A+,Urban,Alcoholic,Admitted,3,IP,No,6
+TB,Female,10,B+,Urban,Drug-addict,Admitted,1,OP,Yes,35
+Infant_and_Pregnancy cases,Male,57,AB-,Rural,Smoking,Admitted,1,Emergency,Yes,21
+Hypertension,Female,17,AB-,Rural,Alcoholic,ICU,7,OP,Yes,8
+TB,Male,19,A-,Urban,Alcoholic,ICU,6,IP,No,21
+Hypertension,Male,6,B-,Rural,Alcoholic,Discharged,3,Emergency,No,20
+Hypertension,Female,45,A+,Rural,Alcoholic,Discharged,2,OP,No,24
+respiratory problems,Male,26,O-,Urban,Smoking,ICU,6,OP,Yes,43
+respiratory problems,Female,55,O+,Urban,None,ICU,2,IP,Yes,30
+TB,Male,25,O-,Urban,Alcoholic,Discharged,2,IP,Yes,15
+respiratory problems,Female,25,AB-,Rural,Smoking,Died,3,IP,No,18
+Diabetes,Male,39,AB-,Rural,Alcoholic,Died,5,Emergency,No,44
+TB,Male,31,A-,Rural,Smoking,ICU,4,IP,Yes,23
+TB,Female,38,B+,Rural,Drug-addict,Discharged,5,IP,Yes,39
+TB,Male,25,B-,Rural,Smoking,Discharged,1,IP,Yes,20
+cardio arrest,Male,42,A+,Rural,None,Died,6,OP,No,3
+respiratory problems,Female,36,A+,Urban,Smoking,ICU,6,Emergency,Yes,0
+Hypertension,Male,19,O+,Rural,Drug-addict,Died,2,OP,No,17
+respiratory problems,Female,14,AB-,Urban,None,Died,4,OP,Yes,25
+accident_cases,Female,51,A+,Urban,Drug-addict,Discharged,2,Emergency,No,14
+Covid,Female,19,B-,Urban,None,Died,6,OP,Yes,13
+respiratory problems,Male,44,AB-,Urban,Drug-addict,ICU,7,Emergency,Yes,12
+Infant_and_Pregnancy cases,Female,17,B+,Rural,Smoking,ICU,2,OP,Yes,18
+Hypertension,Female,26,O+,Urban,Smoking,ICU,2,Emergency,No,36
+Diabetes,Female,49,A+,Urban,Drug-addict,ICU,6,IP,Yes,16
+Infant_and_Pregnancy cases,Female,5,AB+,Rural,Alcoholic,ICU,3,OP,No,1
+Infant_and_Pregnancy cases,Male,37,O-,Rural,Smoking,Died,2,Emergency,No,14
+Infant_and_Pregnancy cases,Male,13,A+,Urban,None,Died,2,Emergency,No,29
+Infant_and_Pregnancy cases,Female,56,AB-,Urban,Drug-addict,Died,6,IP,Yes,7
+TB,Male,49,O-,Urban,Alcoholic,Discharged,2,Emergency,Yes,11
+Diabetes,Male,22,O+,Urban,Smoking,Admitted,7,OP,No,26
+accident_cases,Male,42,O+,Urban,Drug-addict,ICU,2,OP,No,5
+cardio arrest,Male,53,A+,Urban,Smoking,Admitted,4,OP,Yes,28
+Covid,Female,14,B+,Rural,Alcoholic,ICU,3,IP,No,10
+Diabetes,Male,56,AB+,Rural,Smoking,ICU,5,IP,No,2
+Hypertension,Female,55,AB-,Rural,Alcoholic,Admitted,1,IP,No,9
+TB,Female,11,AB-,Rural,None,Died,5,Emergency,Yes,32
+Infant_and_Pregnancy cases,Male,53,A+,Rural,None,Admitted,6,IP,Yes,8
+TB,Female,29,A-,Rural,None,Discharged,4,OP,No,2
+Hypertension,Female,37,B-,Urban,Drug-addict,Died,4,Emergency,No,22
+Cancer,Female,9,O-,Urban,None,Admitted,2,OP,No,42
+Infant_and_Pregnancy cases,Male,40,B+,Urban,None,ICU,2,OP,No,29
+Cancer,Female,24,AB+,Rural,Alcoholic,Admitted,3,IP,No,48
+TB,Male,36,A+,Rural,Drug-addict,Died,2,OP,No,25
+Infant_and_Pregnancy cases,Male,56,B+,Rural,None,Admitted,1,IP,No,17
+TB,Female,55,B-,Rural,Smoking,ICU,1,IP,No,19
+Infant_and_Pregnancy cases,Female,40,O-,Urban,Drug-addict,Died,2,Emergency,Yes,44
+TB,Female,27,A-,Urban,Drug-addict,Died,7,OP,No,44
+Cancer,Male,17,B+,Rural,Smoking,Discharged,4,IP,No,27
+Hypertension,Male,12,A+,Rural,Smoking,Died,7,IP,No,49
+Cancer,Female,19,AB+,Rural,Smoking,Admitted,5,OP,Yes,33
+Cancer,Female,23,B+,Urban,Drug-addict,Admitted,2,Emergency,No,15
+cardio arrest,Male,18,B+,Rural,Drug-addict,Admitted,2,OP,No,49
+Cancer,Female,46,O-,Rural,None,Discharged,7,OP,No,15
+Cancer,Female,30,O-,Rural,Alcoholic,ICU,1,Emergency,Yes,6
+accident_cases,Male,40,O+,Rural,Smoking,Discharged,7,Emergency,Yes,24
+TB,Male,57,AB+,Urban,Drug-addict,ICU,7,IP,No,15
+Cancer,Male,9,O-,Rural,Alcoholic,Admitted,1,OP,No,34
+Infant_and_Pregnancy cases,Female,9,O-,Rural,Smoking,Discharged,1,OP,No,19
+Infant_and_Pregnancy cases,Male,19,B+,Rural,Alcoholic,Admitted,5,OP,No,36
+respiratory problems,Male,38,AB-,Rural,Alcoholic,Admitted,6,IP,No,1
